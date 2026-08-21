@@ -1,0 +1,4 @@
+interface:
+  display_name: "Eight-Step Business Analysis"
+  short_description: "Turn structured datasets into management-ready analysis"
+  default_prompt: "Use $eight-step-business-analysis to analyze this dataset and produce all eight prompts and answers."
